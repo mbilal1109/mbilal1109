@@ -1,8 +1,8 @@
- ### Hi there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Mohammad Bilal!
+ ### Hi there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Mohammad Yousuf!
  
  ---
  
- A Computer Science student and a aspiring ***Software Developer***. I have experiened with technologies listed below. 
+ A ***Computer Science*** student and a aspiring ***Software Developer***. I have experiened with technologies listed below. 
  
  I love learning new things. Right now I'm interested in Front-end Development and Data Analysis. 
  
