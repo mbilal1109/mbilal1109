@@ -2,9 +2,9 @@
  
  ---
  
- A Computer Science student specializing in ***Fullstack Web Developement***. I have experiened with technologies that are listed in the toolbox below. 
+ A Computer Science student and a aspiring ***Software Developer***. I have experiened with technologies listed below. 
  
- Other than working on my university work, in my free time I try to learn and work on front-end web development projects to reach my fullstack goal. 
+ I love learning new things. Right now I'm interested in Front-end Development and Data Analysis. 
  
  Feel free to send me a request at [LinkedIn](https://www.linkedin.com/in/mohammad-bilal-45440b168/)
  
