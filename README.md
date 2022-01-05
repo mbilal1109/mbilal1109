@@ -6,7 +6,7 @@
  
  I love learning new things. Right now I'm interested in Front-end Development and Data Analysis. 
  
- Feel free to send me a request at [LinkedIn](https://www.linkedin.com/in/mohammad-bilal-45440b168/)
+ Feel free to send me a request at [LinkedIn](https://www.linkedin.com/in/mbilal1998/)
  
  ---
  
