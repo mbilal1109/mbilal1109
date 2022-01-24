@@ -2,7 +2,7 @@
  
  ---
  
- A ***Computer Science*** student and a aspiring ***Software Developer***. I have experiened with technologies listed below.
+ A ***Computer Science*** student and a aspiring ***Software Developer***. I have experience with the technologies listed below.
  
  Feel free to send me a request at [LinkedIn](https://www.linkedin.com/in/mbilal1998/)
  
