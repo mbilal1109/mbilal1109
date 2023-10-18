@@ -15,6 +15,7 @@
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" />
 <img align="left" alt="Maven" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png" />
 <img align="left" alt="Lombok" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/190229463-87fa862f-ccf0-48da-8023-940d287df610.png" />
+<img align="left" alt="REST" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" />
 
 <br>
 <br>
