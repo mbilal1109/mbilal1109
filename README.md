@@ -1,9 +1,9 @@
 <h1 align="center">Hello! I'm Mohammad Yousuf</h1>
-<h3 align="center">A Software Developer with a passion for Full-Stack Development</h3>
+<h3 align="center"><i>A Software Developer with a passion for Full-Stack Development<i></i></h3>
 
 <br>
 
-### 🧰 Languages and Tools
+## 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
