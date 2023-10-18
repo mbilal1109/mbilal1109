@@ -3,6 +3,10 @@
 
 <br>
 
+- Currently learning **Javascript**, and creating **REST APIs with Spring Boot**.
+
+<br>
+
 ## 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png"/>
