@@ -3,7 +3,8 @@
 
 <br>
 
-- Currently focusing on **Javascript**, and other **Front-end** technologies.
+- Currently working through **Odin Project**, to learn **Front-end** technologies.
+- Learning things such as **JavaScript**, **React**
 
 <br>
 
