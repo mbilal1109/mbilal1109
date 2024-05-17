@@ -4,7 +4,7 @@
 <br>
 
 - Currently working through **Odin Project**, to learn **Front-end** technologies.
-- Learning things such as **JavaScript**, **React**
+- Learning things such as **JavaScript**, and **React**
 
 <br>
 
