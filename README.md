@@ -3,7 +3,7 @@
 
 <br>
 
-- Currently learning **Javascript**, and creating **REST APIs with Spring Boot**.
+- Currently focusing on **Javascript**, and other **Front-end** technologies.
 
 <br>
 
