@@ -1,10 +1,9 @@
 <h1 align="center">Hello! I'm Mohammad Yousuf</h1>
-<h3 align="center"><i>A Software Developer with a passion for Full-Stack Development<i></i></h3>
+<h3 align="center"><i>Full-Stack Software Developer<i></i></h3>
 
 <br>
 
-- Currently working through **Odin Project**, to learn **Front-end** technologies.
-- Learning things such as **JavaScript**, and **React**
+- Currently learning **React** and building **APIs**
 
 <br>
 
