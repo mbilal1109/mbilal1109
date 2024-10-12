@@ -1,5 +1,5 @@
 <h1 align="center">Hello! I'm Mohammad Yousuf</h1>
-<h3 align="center"><i>Full-Stack Software Developer<i></i></h3>
+<h3 align="center"><i>Software Developer<i></i></h3>
 
 <br>
 
